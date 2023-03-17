@@ -130,6 +130,8 @@ Project Link: [https://github.com/Alierenkayhan/MachineLearningPython](https://g
 * https://github.com/othneildrew/Best-README-Template
 * https://github.com/alexandresanlim/Badges4-README.md-Profile
 * https://shields.io/
+* https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
+* https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265
 
 
 
